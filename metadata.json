@@ -1,0 +1,6 @@
+{
+  "name": "Our Universe",
+  "description": "A highly secure, premium digital universe for couples to share memories, talk privately, track savings, and grow their relationship with AI companion insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
